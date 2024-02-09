@@ -1,4 +1,4 @@
-This was little exercise project at Scrimba
+This was little exercise project at Scrimba. Developed with HTML, CSS, Javasvript.
 
 
 ## About Scrimba
